@@ -55,7 +55,7 @@ function Dashboard() {
 
         <Typography variant="h4" gutterBottom>
           <Link
-            href="https://192.168.0.2/uploads/blog/a"
+            href="http://192.168.0.2/uploads/blog/2025/05/17/bd4598e4dd310d1a2283b3b25d159a896577c5b2f45f63aeedf7c2fc8bc761fe.md"
             target="_blank"
             rel="noopener"
           >
